@@ -1,0 +1,12 @@
+@itemHeaderLinkColor: darken(@linkColor, 5%);
+@itemDescriptionColor: @gray-light;
+
+/* Link */
+@itemLinkColor: darken(@linkColor, 5%);
+@itemLinkHoverColor:@gray-light;
+
+/* Link List */
+@linkListItemColor:darken(@linkColor, 5%);
+@linkListItemHoverColor: @gray-light;
+@linkListItemDownColor: @pressedTextColor;
+@linkListItemActiveColor: @selectedTextColor;
